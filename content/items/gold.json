@@ -1,0 +1,9 @@
+{
+	"type": "material",
+	"name": "Gold",
+	"description": "",
+	"hardness": 4,
+	"cost": 2.0,
+	"color": "111111",
+	"tier": 2
+}
