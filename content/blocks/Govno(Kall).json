@@ -1,0 +1,9 @@
+{"type": "Kall", 
+"name": "kall", 
+"description": "...", 
+"health": 40, 
+"size": 1, 
+"requirements"
+ [{"item": "copper", "amount": 1}]
+ , "research": "", 
+ "category": "effect"}
